@@ -2,13 +2,13 @@
   <img src="assets/logo.png" alt="FNTC logo" width="300px" />
 </p>
 
-## Welcome to psyc! ✨
+## Welcome to psyc! ✨
 
 We all know that JS does not support private properties yet, but can simulate their behaviour in a variety of ways.
 
 This package is meant to do that by using Symbols. That way we can achieve some kind of private property, with setter and getter methods for our classes. 👻
 
-### How can I use the package? 🛠
+### How can I use the package? 🛠
 
 Here's the magic! Just install the package with npm like this:
 
